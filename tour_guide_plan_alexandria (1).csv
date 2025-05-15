@@ -1,0 +1,501 @@
+Date,Hotel address,Historical or Not,Cinema or Not,Time Preferred to Go Out,Place on Sea,Family Members Number,Tourist Schedule of Visits
+2024-10-13,"Corniche St, Alexandria, Egypt",Yes,No,11:00,Yes,1,"Roman Amphitheatre, Montazah Palace Gardens"
+2024-04-25,"Sidi Gaber St, Alexandria, Egypt",Yes,No,08:30,No,5,Alexandria National Museum
+2024-03-08,"Corniche St, Alexandria, Egypt",Yes,No,16:00,Yes,2,"Qaitbay Citadel, Mamoura Beach"
+2024-03-27,"El Horreya St, Alexandria, Egypt",No,No,07:45,Yes,5,Montazah Palace Gardens
+2024-04-18,"El Horreya St, Alexandria, Egypt",Yes,No,13:00,No,4,Pompey's Pillar
+2024-07-12,"El Horreya St, Alexandria, Egypt",Yes,Yes,08:30,No,1,"Roman Amphitheatre, San Stefano Cinema"
+2024-11-24,"El Horreya St, Alexandria, Egypt",Yes,No,09:30,Yes,4,"Pompey's Pillar, Mamoura Beach"
+2024-02-21,"Corniche St, Alexandria, Egypt",Yes,No,12:45,No,5,Qaitbay Citadel
+2024-07-06,"Al Agamy St, Alexandria, Egypt",Yes,No,09:15,No,1,Roman Amphitheatre
+2024-07-15,"Stanley St, Alexandria, Egypt",Yes,No,13:45,No,3,Roman Amphitheatre
+2024-08-31,"Stanley St, Alexandria, Egypt",No,No,12:30,Yes,4,Mamoura Beach
+2024-04-15,"Al Agamy St, Alexandria, Egypt",Yes,No,10:15,No,6,Pompey's Pillar
+2024-02-04,"Al Agamy St, Alexandria, Egypt",No,No,07:30,Yes,5,Stanley Beach
+2024-02-14,"Stanley St, Alexandria, Egypt",Yes,No,07:30,Yes,5,"Pompey's Pillar, Stanley Beach"
+2024-07-28,"Corniche St, Alexandria, Egypt",Yes,No,16:30,No,1,Alexandria National Museum
+2024-01-28,"Corniche St, Alexandria, Egypt",Yes,Yes,07:30,Yes,6,"Pompey's Pillar, San Stefano Cinema, Stanley Beach"
+2024-09-25,"Stanley St, Alexandria, Egypt",Yes,Yes,11:45,Yes,6,"Pompey's Pillar, San Stefano Cinema, Stanley Beach"
+2024-04-30,"Sidi Gaber St, Alexandria, Egypt",No,No,08:15,Yes,3,Stanley Beach
+2024-01-05,"Stanley St, Alexandria, Egypt",Yes,Yes,08:00,Yes,5,"Qaitbay Citadel, Renaissance Cinema, Mamoura Beach"
+2024-12-20,"Stanley St, Alexandria, Egypt",Yes,Yes,12:30,No,3,"Qaitbay Citadel, Zahran Cinema"
+2024-04-17,"Stanley St, Alexandria, Egypt",No,Yes,13:15,No,4,Renaissance Cinema
+2024-07-02,"Al Agamy St, Alexandria, Egypt",Yes,Yes,14:15,No,3,"Alexandria National Museum, Zahran Cinema"
+2024-09-22,"Al Agamy St, Alexandria, Egypt",Yes,No,16:30,Yes,4,"Alexandria National Museum, Mamoura Beach"
+2024-03-30,"Corniche St, Alexandria, Egypt",Yes,No,10:45,No,1,Qaitbay Citadel
+2024-01-09,"Sidi Gaber St, Alexandria, Egypt",No,No,06:45,Yes,1,Mamoura Beach
+2024-02-20,"Sidi Gaber St, Alexandria, Egypt",No,Yes,09:30,Yes,4,"Zahran Cinema, Montazah Palace Gardens"
+2024-02-16,"Sidi Gaber St, Alexandria, Egypt",Yes,No,16:15,No,6,Alexandria National Museum
+2024-08-17,"Corniche St, Alexandria, Egypt",Yes,No,11:00,No,1,Roman Amphitheatre
+2024-12-15,"Corniche St, Alexandria, Egypt",Yes,No,09:00,No,3,Roman Amphitheatre
+2024-10-07,"Stanley St, Alexandria, Egypt",Yes,No,08:30,Yes,3,"Roman Amphitheatre, Montazah Palace Gardens"
+2024-02-02,"Stanley St, Alexandria, Egypt",No,No,12:45,Yes,1,Montazah Palace Gardens
+2024-07-22,"El Horreya St, Alexandria, Egypt",Yes,Yes,13:30,No,6,"Alexandria National Museum, San Stefano Cinema"
+2024-03-06,"Corniche St, Alexandria, Egypt",No,No,15:00,Yes,3,Mamoura Beach
+2024-06-12,"Corniche St, Alexandria, Egypt",Yes,No,14:30,Yes,1,"Alexandria National Museum, Mamoura Beach"
+2024-08-04,"Stanley St, Alexandria, Egypt",No,Yes,08:30,Yes,5,"Renaissance Cinema, Mamoura Beach"
+2024-12-31,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,13:30,Yes,1,"Pompey's Pillar, Zahran Cinema, Mamoura Beach"
+2024-10-08,"Stanley St, Alexandria, Egypt",No,Yes,06:30,No,1,San Stefano Cinema
+2024-12-09,"Al Agamy St, Alexandria, Egypt",No,Yes,16:45,Yes,4,"Renaissance Cinema, Mamoura Beach"
+2024-02-07,"Al Agamy St, Alexandria, Egypt",Yes,No,14:00,No,4,Roman Amphitheatre
+2024-07-04,"Stanley St, Alexandria, Egypt",Yes,Yes,07:30,No,2,"Roman Amphitheatre, Renaissance Cinema"
+2024-10-17,"El Horreya St, Alexandria, Egypt",No,Yes,11:30,No,3,Zahran Cinema
+2024-09-08,"Corniche St, Alexandria, Egypt",Yes,Yes,06:15,Yes,5,"Alexandria National Museum, San Stefano Cinema, Mamoura Beach"
+2024-10-02,"Al Agamy St, Alexandria, Egypt",Yes,Yes,09:15,No,3,"Pompey's Pillar, Renaissance Cinema"
+2024-10-23,"Al Agamy St, Alexandria, Egypt",No,No,12:15,Yes,1,Mamoura Beach
+2024-08-15,"Corniche St, Alexandria, Egypt",Yes,No,11:45,Yes,2,"Roman Amphitheatre, Mamoura Beach"
+2024-05-25,"El Horreya St, Alexandria, Egypt",Yes,No,13:15,Yes,4,"Qaitbay Citadel, Montazah Palace Gardens"
+2024-07-19,"Al Agamy St, Alexandria, Egypt",Yes,No,14:45,No,6,Roman Amphitheatre
+2024-05-05,"El Horreya St, Alexandria, Egypt",No,No,06:30,Yes,4,Mamoura Beach
+2024-03-17,"El Horreya St, Alexandria, Egypt",No,Yes,09:00,Yes,3,"San Stefano Cinema, Mamoura Beach"
+2024-09-30,"Sidi Gaber St, Alexandria, Egypt",No,Yes,07:15,No,3,Renaissance Cinema
+2024-03-03,"El Horreya St, Alexandria, Egypt",Yes,No,12:30,Yes,5,"Pompey's Pillar, Montazah Palace Gardens"
+2024-01-31,"Sidi Gaber St, Alexandria, Egypt",Yes,No,15:00,No,5,Alexandria National Museum
+2024-08-18,"Stanley St, Alexandria, Egypt",No,Yes,06:45,Yes,5,"Zahran Cinema, Stanley Beach"
+2024-01-10,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,09:15,No,6,"Pompey's Pillar, Renaissance Cinema"
+2024-11-27,"Corniche St, Alexandria, Egypt",Yes,Yes,16:15,Yes,2,"Pompey's Pillar, San Stefano Cinema, Mamoura Beach"
+2024-02-12,"Corniche St, Alexandria, Egypt",Yes,No,12:30,Yes,6,"Pompey's Pillar, Montazah Palace Gardens"
+2024-05-15,"Sidi Gaber St, Alexandria, Egypt",No,Yes,11:00,Yes,1,"Zahran Cinema, Montazah Palace Gardens"
+2024-07-25,"Sidi Gaber St, Alexandria, Egypt",No,No,06:15,Yes,6,Stanley Beach
+2024-09-12,"El Horreya St, Alexandria, Egypt",Yes,No,15:15,Yes,5,"Qaitbay Citadel, Mamoura Beach"
+2024-07-28,"El Horreya St, Alexandria, Egypt",Yes,No,17:45,Yes,3,"Pompey's Pillar, Mamoura Beach"
+2024-07-23,"Stanley St, Alexandria, Egypt",Yes,No,09:00,No,2,Qaitbay Citadel
+2024-02-11,"Stanley St, Alexandria, Egypt",No,No,12:45,Yes,5,Mamoura Beach
+2024-07-14,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,14:30,No,6,"Pompey's Pillar, Zahran Cinema"
+2024-02-28,"Stanley St, Alexandria, Egypt",No,Yes,09:30,Yes,1,"Renaissance Cinema, Mamoura Beach"
+2024-12-12,"Al Agamy St, Alexandria, Egypt",No,Yes,17:15,No,3,San Stefano Cinema
+2024-06-02,"Stanley St, Alexandria, Egypt",Yes,Yes,06:15,Yes,1,"Alexandria National Museum, San Stefano Cinema, Stanley Beach"
+2024-06-14,"Sidi Gaber St, Alexandria, Egypt",No,No,14:15,Yes,2,Mamoura Beach
+2024-09-18,"Al Agamy St, Alexandria, Egypt",Yes,No,14:00,Yes,4,"Qaitbay Citadel, Montazah Palace Gardens"
+2024-05-27,"Corniche St, Alexandria, Egypt",Yes,No,06:45,Yes,2,"Pompey's Pillar, Mamoura Beach"
+2024-08-19,"El Horreya St, Alexandria, Egypt",Yes,Yes,11:45,No,1,"Pompey's Pillar, Renaissance Cinema"
+2024-02-23,"Sidi Gaber St, Alexandria, Egypt",No,No,06:45,Yes,3,Stanley Beach
+2024-10-15,"Stanley St, Alexandria, Egypt",No,Yes,15:15,Yes,1,"Zahran Cinema, Stanley Beach"
+2024-09-07,"Al Agamy St, Alexandria, Egypt",No,Yes,16:45,No,4,Zahran Cinema
+2024-12-10,"Corniche St, Alexandria, Egypt",Yes,No,07:45,Yes,6,"Roman Amphitheatre, Stanley Beach"
+2024-03-21,"El Horreya St, Alexandria, Egypt",No,Yes,14:15,Yes,1,"Renaissance Cinema, Stanley Beach"
+2024-11-15,"Stanley St, Alexandria, Egypt",No,Yes,14:00,No,4,Zahran Cinema
+2024-01-21,"Sidi Gaber St, Alexandria, Egypt",Yes,No,15:45,No,6,Roman Amphitheatre
+2024-01-16,"Corniche St, Alexandria, Egypt",Yes,No,13:00,No,2,Pompey's Pillar
+2024-08-08,"Al Agamy St, Alexandria, Egypt",Yes,No,11:45,Yes,3,"Roman Amphitheatre, Stanley Beach"
+2024-01-08,"Al Agamy St, Alexandria, Egypt",No,Yes,14:45,No,2,Zahran Cinema
+2024-10-22,"El Horreya St, Alexandria, Egypt",Yes,No,16:15,Yes,1,"Pompey's Pillar, Montazah Palace Gardens"
+2024-05-03,"Al Agamy St, Alexandria, Egypt",Yes,No,08:00,Yes,4,"Qaitbay Citadel, Montazah Palace Gardens"
+2024-02-15,"El Horreya St, Alexandria, Egypt",No,Yes,09:45,No,4,Zahran Cinema
+2024-02-02,"Al Agamy St, Alexandria, Egypt",No,Yes,09:30,No,3,Renaissance Cinema
+2024-01-15,"Al Agamy St, Alexandria, Egypt",Yes,Yes,14:45,Yes,5,"Pompey's Pillar, Renaissance Cinema, Mamoura Beach"
+2024-04-22,"Al Agamy St, Alexandria, Egypt",No,Yes,17:15,Yes,2,"Zahran Cinema, Mamoura Beach"
+2024-02-23,"Corniche St, Alexandria, Egypt",Yes,Yes,15:15,Yes,3,"Roman Amphitheatre, Zahran Cinema, Montazah Palace Gardens"
+2024-08-01,"Al Agamy St, Alexandria, Egypt",Yes,Yes,16:00,Yes,2,"Qaitbay Citadel, San Stefano Cinema, Mamoura Beach"
+2024-08-05,"Al Agamy St, Alexandria, Egypt",Yes,Yes,17:45,No,5,"Qaitbay Citadel, San Stefano Cinema"
+2024-09-12,"Sidi Gaber St, Alexandria, Egypt",Yes,No,10:00,No,3,Pompey's Pillar
+2024-06-18,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,12:15,No,3,"Roman Amphitheatre, Renaissance Cinema"
+2024-04-10,"Sidi Gaber St, Alexandria, Egypt",Yes,No,16:00,No,1,Roman Amphitheatre
+2024-10-22,"Stanley St, Alexandria, Egypt",No,Yes,06:15,No,6,Renaissance Cinema
+2024-08-04,"Al Agamy St, Alexandria, Egypt",No,Yes,11:30,No,1,Zahran Cinema
+2024-08-04,"El Horreya St, Alexandria, Egypt",Yes,No,14:00,No,6,Roman Amphitheatre
+2024-07-17,"Corniche St, Alexandria, Egypt",No,Yes,13:15,Yes,6,"Renaissance Cinema, Stanley Beach"
+2024-01-17,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,06:00,Yes,2,"Pompey's Pillar, Renaissance Cinema, Montazah Palace Gardens"
+2024-11-12,"Stanley St, Alexandria, Egypt",Yes,No,15:15,No,5,Qaitbay Citadel
+2024-08-25,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,10:30,No,2,"Alexandria National Museum, Renaissance Cinema"
+2024-05-05,"Corniche St, Alexandria, Egypt",Yes,No,15:45,No,3,Roman Amphitheatre
+2024-03-21,"El Horreya St, Alexandria, Egypt",Yes,No,07:00,No,3,Pompey's Pillar
+2024-03-27,"El Horreya St, Alexandria, Egypt",No,Yes,08:15,Yes,4,"Renaissance Cinema, Mamoura Beach"
+2024-02-17,"Al Agamy St, Alexandria, Egypt",Yes,Yes,08:00,Yes,3,"Qaitbay Citadel, Zahran Cinema, Montazah Palace Gardens"
+2024-11-27,"Corniche St, Alexandria, Egypt",Yes,Yes,08:00,Yes,4,"Roman Amphitheatre, San Stefano Cinema, Mamoura Beach"
+2024-02-20,"Al Agamy St, Alexandria, Egypt",Yes,Yes,14:00,No,6,"Pompey's Pillar, Renaissance Cinema"
+2024-04-12,"El Horreya St, Alexandria, Egypt",Yes,No,09:00,No,2,Alexandria National Museum
+2024-10-31,"Al Agamy St, Alexandria, Egypt",No,Yes,16:30,No,5,Renaissance Cinema
+2024-07-04,"El Horreya St, Alexandria, Egypt",No,Yes,14:00,No,1,Zahran Cinema
+2024-12-26,"El Horreya St, Alexandria, Egypt",Yes,No,07:15,Yes,2,"Pompey's Pillar, Stanley Beach"
+2024-02-11,"Corniche St, Alexandria, Egypt",No,No,06:30,Yes,4,Mamoura Beach
+2024-05-16,"El Horreya St, Alexandria, Egypt",Yes,No,07:15,No,4,Pompey's Pillar
+2024-06-23,"Corniche St, Alexandria, Egypt",Yes,No,09:00,No,3,Roman Amphitheatre
+2024-07-17,"Corniche St, Alexandria, Egypt",Yes,No,17:30,No,2,Alexandria National Museum
+2024-08-10,"Stanley St, Alexandria, Egypt",No,No,12:45,Yes,4,Mamoura Beach
+2024-03-19,"Al Agamy St, Alexandria, Egypt",No,No,06:00,Yes,2,Montazah Palace Gardens
+2024-11-23,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,17:30,Yes,4,"Roman Amphitheatre, Renaissance Cinema, Montazah Palace Gardens"
+2024-02-04,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,11:30,No,6,"Qaitbay Citadel, San Stefano Cinema"
+2024-07-30,"El Horreya St, Alexandria, Egypt",Yes,No,08:00,No,3,Pompey's Pillar
+2024-03-28,"El Horreya St, Alexandria, Egypt",No,No,15:45,Yes,4,Stanley Beach
+2024-07-06,"Sidi Gaber St, Alexandria, Egypt",Yes,No,08:45,No,5,Pompey's Pillar
+2024-08-24,"Sidi Gaber St, Alexandria, Egypt",No,Yes,12:15,No,2,San Stefano Cinema
+2024-11-24,"Stanley St, Alexandria, Egypt",Yes,No,06:45,No,1,Roman Amphitheatre
+2024-03-07,"Sidi Gaber St, Alexandria, Egypt",No,Yes,08:00,No,1,Zahran Cinema
+2024-02-20,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,16:00,Yes,5,"Alexandria National Museum, Zahran Cinema, Stanley Beach"
+2024-02-24,"El Horreya St, Alexandria, Egypt",No,Yes,17:15,Yes,3,"Renaissance Cinema, Montazah Palace Gardens"
+2024-10-27,"Sidi Gaber St, Alexandria, Egypt",Yes,No,16:15,Yes,5,"Pompey's Pillar, Montazah Palace Gardens"
+2024-08-01,"Corniche St, Alexandria, Egypt",Yes,Yes,06:30,Yes,4,"Pompey's Pillar, Zahran Cinema, Stanley Beach"
+2024-10-10,"Corniche St, Alexandria, Egypt",No,Yes,17:45,No,3,Renaissance Cinema
+2024-06-11,"Corniche St, Alexandria, Egypt",Yes,No,14:30,No,2,Qaitbay Citadel
+2024-02-21,"El Horreya St, Alexandria, Egypt",Yes,Yes,14:15,No,3,"Pompey's Pillar, San Stefano Cinema"
+2024-07-01,"El Horreya St, Alexandria, Egypt",Yes,No,14:30,Yes,1,"Alexandria National Museum, Stanley Beach"
+2024-08-08,"Sidi Gaber St, Alexandria, Egypt",No,Yes,15:00,No,5,San Stefano Cinema
+2024-12-19,"El Horreya St, Alexandria, Egypt",Yes,Yes,06:00,Yes,5,"Pompey's Pillar, San Stefano Cinema, Stanley Beach"
+2024-11-25,"Sidi Gaber St, Alexandria, Egypt",Yes,No,12:45,No,4,Roman Amphitheatre
+2024-06-25,"El Horreya St, Alexandria, Egypt",No,No,09:00,Yes,3,Mamoura Beach
+2024-08-15,"Stanley St, Alexandria, Egypt",No,No,07:15,Yes,1,Mamoura Beach
+2024-04-04,"Corniche St, Alexandria, Egypt",Yes,No,06:30,Yes,1,"Alexandria National Museum, Stanley Beach"
+2024-07-12,"Corniche St, Alexandria, Egypt",No,Yes,08:45,Yes,5,"Zahran Cinema, Stanley Beach"
+2024-05-28,"Corniche St, Alexandria, Egypt",Yes,Yes,09:45,No,2,"Alexandria National Museum, San Stefano Cinema"
+2024-02-03,"Sidi Gaber St, Alexandria, Egypt",No,No,08:15,Yes,6,Stanley Beach
+2024-11-23,"Sidi Gaber St, Alexandria, Egypt",No,Yes,15:15,Yes,5,"Zahran Cinema, Mamoura Beach"
+2024-08-08,"El Horreya St, Alexandria, Egypt",Yes,Yes,07:15,Yes,6,"Alexandria National Museum, Zahran Cinema, Stanley Beach"
+2024-03-25,"Al Agamy St, Alexandria, Egypt",No,Yes,08:15,No,6,San Stefano Cinema
+2024-07-07,"Al Agamy St, Alexandria, Egypt",Yes,Yes,15:45,Yes,2,"Qaitbay Citadel, Renaissance Cinema, Stanley Beach"
+2024-09-04,"Corniche St, Alexandria, Egypt",Yes,Yes,06:30,Yes,6,"Qaitbay Citadel, Renaissance Cinema, Mamoura Beach"
+2024-10-30,"Stanley St, Alexandria, Egypt",No,No,10:30,Yes,5,Mamoura Beach
+2024-09-29,"Stanley St, Alexandria, Egypt",Yes,No,10:30,Yes,2,"Alexandria National Museum, Mamoura Beach"
+2024-07-18,"Corniche St, Alexandria, Egypt",Yes,No,09:15,No,6,Pompey's Pillar
+2024-05-17,"Corniche St, Alexandria, Egypt",Yes,Yes,16:00,Yes,3,"Pompey's Pillar, Zahran Cinema, Stanley Beach"
+2024-11-28,"Corniche St, Alexandria, Egypt",Yes,Yes,12:15,Yes,1,"Alexandria National Museum, Zahran Cinema, Mamoura Beach"
+2024-03-19,"El Horreya St, Alexandria, Egypt",Yes,No,08:00,No,4,Qaitbay Citadel
+2024-01-11,"El Horreya St, Alexandria, Egypt",No,Yes,08:15,No,2,San Stefano Cinema
+2024-10-05,"Corniche St, Alexandria, Egypt",Yes,No,10:00,No,2,Roman Amphitheatre
+2024-12-18,"El Horreya St, Alexandria, Egypt",No,No,14:15,Yes,3,Montazah Palace Gardens
+2024-12-25,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,06:15,No,3,"Alexandria National Museum, Zahran Cinema"
+2024-11-24,"El Horreya St, Alexandria, Egypt",Yes,No,06:00,No,3,Alexandria National Museum
+2024-04-12,"Corniche St, Alexandria, Egypt",Yes,Yes,08:15,No,2,"Pompey's Pillar, San Stefano Cinema"
+2024-01-12,"Stanley St, Alexandria, Egypt",No,Yes,17:45,No,1,San Stefano Cinema
+2024-02-05,"El Horreya St, Alexandria, Egypt",No,Yes,08:30,Yes,6,"San Stefano Cinema, Stanley Beach"
+2024-01-12,"El Horreya St, Alexandria, Egypt",Yes,No,16:30,No,2,Qaitbay Citadel
+2024-03-20,"Corniche St, Alexandria, Egypt",Yes,No,10:45,No,1,Roman Amphitheatre
+2024-06-09,"El Horreya St, Alexandria, Egypt",Yes,Yes,12:30,Yes,6,"Roman Amphitheatre, Renaissance Cinema, Stanley Beach"
+2024-10-06,"El Horreya St, Alexandria, Egypt",No,Yes,06:45,No,4,Zahran Cinema
+2024-01-31,"Stanley St, Alexandria, Egypt",Yes,Yes,08:45,Yes,3,"Roman Amphitheatre, Zahran Cinema, Stanley Beach"
+2024-04-01,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,06:15,No,5,"Pompey's Pillar, San Stefano Cinema"
+2024-08-11,"Sidi Gaber St, Alexandria, Egypt",No,Yes,15:15,No,4,San Stefano Cinema
+2024-02-28,"El Horreya St, Alexandria, Egypt",No,Yes,13:15,No,6,San Stefano Cinema
+2024-01-02,"Sidi Gaber St, Alexandria, Egypt",No,No,11:30,Yes,1,Montazah Palace Gardens
+2024-11-19,"Corniche St, Alexandria, Egypt",Yes,No,17:00,No,3,Roman Amphitheatre
+2024-05-02,"Corniche St, Alexandria, Egypt",Yes,Yes,16:45,No,5,"Alexandria National Museum, Zahran Cinema"
+2024-07-29,"Al Agamy St, Alexandria, Egypt",No,No,09:45,Yes,2,Stanley Beach
+2024-11-28,"Corniche St, Alexandria, Egypt",Yes,Yes,07:30,No,4,"Qaitbay Citadel, Zahran Cinema"
+2024-03-15,"Corniche St, Alexandria, Egypt",Yes,No,10:00,Yes,4,"Alexandria National Museum, Stanley Beach"
+2024-01-17,"Al Agamy St, Alexandria, Egypt",Yes,Yes,10:45,Yes,5,"Alexandria National Museum, Renaissance Cinema, Stanley Beach"
+2024-07-04,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,15:00,Yes,3,"Qaitbay Citadel, San Stefano Cinema, Montazah Palace Gardens"
+2024-02-13,"Sidi Gaber St, Alexandria, Egypt",Yes,No,13:00,No,3,Roman Amphitheatre
+2024-12-26,"El Horreya St, Alexandria, Egypt",Yes,Yes,14:15,Yes,2,"Roman Amphitheatre, San Stefano Cinema, Montazah Palace Gardens"
+2024-08-08,"El Horreya St, Alexandria, Egypt",No,Yes,11:45,No,2,Renaissance Cinema
+2024-03-22,"Corniche St, Alexandria, Egypt",Yes,Yes,17:15,Yes,3,"Pompey's Pillar, San Stefano Cinema, Stanley Beach"
+2024-08-02,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,15:00,No,6,"Roman Amphitheatre, Renaissance Cinema"
+2024-03-24,"Al Agamy St, Alexandria, Egypt",No,No,12:15,Yes,4,Montazah Palace Gardens
+2024-10-27,"Corniche St, Alexandria, Egypt",No,Yes,16:15,Yes,1,"Renaissance Cinema, Mamoura Beach"
+2024-01-24,"Sidi Gaber St, Alexandria, Egypt",Yes,No,08:00,No,1,Qaitbay Citadel
+2024-05-11,"Corniche St, Alexandria, Egypt",No,Yes,13:45,No,5,San Stefano Cinema
+2024-05-26,"El Horreya St, Alexandria, Egypt",Yes,Yes,07:45,Yes,2,"Roman Amphitheatre, San Stefano Cinema, Mamoura Beach"
+2024-09-02,"Stanley St, Alexandria, Egypt",Yes,Yes,15:00,No,3,"Qaitbay Citadel, San Stefano Cinema"
+2024-12-31,"Stanley St, Alexandria, Egypt",Yes,No,12:45,No,5,Pompey's Pillar
+2024-12-24,"Stanley St, Alexandria, Egypt",Yes,Yes,08:00,Yes,4,"Roman Amphitheatre, Zahran Cinema, Mamoura Beach"
+2024-08-10,"Sidi Gaber St, Alexandria, Egypt",No,Yes,14:00,No,2,San Stefano Cinema
+2024-01-03,"Corniche St, Alexandria, Egypt",Yes,No,06:00,No,1,Alexandria National Museum
+2024-06-03,"Stanley St, Alexandria, Egypt",No,Yes,16:00,No,5,Zahran Cinema
+2024-03-14,"Al Agamy St, Alexandria, Egypt",Yes,No,16:15,No,1,Pompey's Pillar
+2024-08-03,"Sidi Gaber St, Alexandria, Egypt",No,Yes,17:00,Yes,5,"San Stefano Cinema, Stanley Beach"
+2024-02-05,"Sidi Gaber St, Alexandria, Egypt",Yes,No,06:00,Yes,1,"Pompey's Pillar, Montazah Palace Gardens"
+2024-12-29,"Corniche St, Alexandria, Egypt",No,Yes,11:15,Yes,5,"San Stefano Cinema, Mamoura Beach"
+2024-04-19,"Corniche St, Alexandria, Egypt",Yes,Yes,11:30,No,5,"Alexandria National Museum, San Stefano Cinema"
+2024-09-17,"Stanley St, Alexandria, Egypt",Yes,No,09:30,No,4,Roman Amphitheatre
+2024-06-22,"Sidi Gaber St, Alexandria, Egypt",Yes,No,11:30,Yes,6,"Alexandria National Museum, Mamoura Beach"
+2024-01-10,"Corniche St, Alexandria, Egypt",Yes,Yes,16:00,Yes,2,"Pompey's Pillar, San Stefano Cinema, Stanley Beach"
+2024-06-02,"Al Agamy St, Alexandria, Egypt",No,Yes,15:15,Yes,6,"Renaissance Cinema, Stanley Beach"
+2024-05-02,"Corniche St, Alexandria, Egypt",Yes,Yes,11:45,No,4,"Alexandria National Museum, Renaissance Cinema"
+2024-11-04,"El Horreya St, Alexandria, Egypt",Yes,Yes,17:45,Yes,5,"Alexandria National Museum, Zahran Cinema, Montazah Palace Gardens"
+2024-08-28,"Sidi Gaber St, Alexandria, Egypt",Yes,No,06:15,Yes,4,"Alexandria National Museum, Montazah Palace Gardens"
+2024-09-22,"Sidi Gaber St, Alexandria, Egypt",Yes,No,17:15,Yes,5,"Roman Amphitheatre, Mamoura Beach"
+2024-05-06,"Sidi Gaber St, Alexandria, Egypt",No,Yes,15:00,Yes,5,"San Stefano Cinema, Montazah Palace Gardens"
+2024-12-09,"Al Agamy St, Alexandria, Egypt",Yes,No,17:45,No,1,Qaitbay Citadel
+2024-01-06,"Corniche St, Alexandria, Egypt",No,No,15:45,Yes,6,Mamoura Beach
+2024-08-25,"Corniche St, Alexandria, Egypt",Yes,Yes,12:15,Yes,4,"Alexandria National Museum, Renaissance Cinema, Stanley Beach"
+2024-08-09,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,12:15,Yes,4,"Alexandria National Museum, San Stefano Cinema, Mamoura Beach"
+2024-07-22,"Sidi Gaber St, Alexandria, Egypt",No,Yes,06:00,No,4,Zahran Cinema
+2024-12-05,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,11:00,No,1,"Qaitbay Citadel, Zahran Cinema"
+2024-04-14,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,14:30,No,2,"Qaitbay Citadel, Zahran Cinema"
+2024-07-13,"Stanley St, Alexandria, Egypt",Yes,Yes,13:15,No,1,"Qaitbay Citadel, Zahran Cinema"
+2024-10-13,"Corniche St, Alexandria, Egypt",No,No,17:15,Yes,4,Mamoura Beach
+2024-12-06,"Sidi Gaber St, Alexandria, Egypt",Yes,No,06:00,No,4,Alexandria National Museum
+2024-10-09,"Al Agamy St, Alexandria, Egypt",Yes,Yes,17:00,Yes,1,"Pompey's Pillar, San Stefano Cinema, Montazah Palace Gardens"
+2024-10-07,"Corniche St, Alexandria, Egypt",Yes,Yes,13:15,Yes,2,"Pompey's Pillar, San Stefano Cinema, Montazah Palace Gardens"
+2024-01-11,"Al Agamy St, Alexandria, Egypt",Yes,No,14:45,No,2,Roman Amphitheatre
+2024-04-20,"El Horreya St, Alexandria, Egypt",Yes,Yes,11:15,Yes,6,"Alexandria National Museum, Zahran Cinema, Stanley Beach"
+2024-08-27,"Sidi Gaber St, Alexandria, Egypt",No,Yes,09:00,Yes,2,"Zahran Cinema, Montazah Palace Gardens"
+2024-12-02,"El Horreya St, Alexandria, Egypt",No,Yes,09:45,No,6,Renaissance Cinema
+2024-11-04,"Corniche St, Alexandria, Egypt",Yes,Yes,16:30,Yes,3,"Alexandria National Museum, Renaissance Cinema, Mamoura Beach"
+2024-04-26,"Sidi Gaber St, Alexandria, Egypt",Yes,No,06:00,No,5,Pompey's Pillar
+2024-08-30,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,08:15,No,2,"Alexandria National Museum, Zahran Cinema"
+2024-06-28,"Stanley St, Alexandria, Egypt",Yes,No,09:00,No,5,Roman Amphitheatre
+2024-02-17,"Stanley St, Alexandria, Egypt",Yes,No,13:45,Yes,6,"Pompey's Pillar, Stanley Beach"
+2024-11-17,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,06:00,Yes,3,"Qaitbay Citadel, San Stefano Cinema, Mamoura Beach"
+2024-05-31,"Corniche St, Alexandria, Egypt",Yes,Yes,14:45,Yes,2,"Alexandria National Museum, Zahran Cinema, Montazah Palace Gardens"
+2024-09-06,"El Horreya St, Alexandria, Egypt",Yes,Yes,11:45,Yes,1,"Qaitbay Citadel, Renaissance Cinema, Montazah Palace Gardens"
+2024-06-10,"Stanley St, Alexandria, Egypt",No,No,08:00,Yes,5,Mamoura Beach
+2024-12-05,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,15:45,No,6,"Pompey's Pillar, Zahran Cinema"
+2024-06-11,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,15:30,Yes,6,"Roman Amphitheatre, San Stefano Cinema, Mamoura Beach"
+2024-01-20,"Sidi Gaber St, Alexandria, Egypt",No,No,11:45,Yes,6,Mamoura Beach
+2024-05-11,"Sidi Gaber St, Alexandria, Egypt",Yes,No,12:30,No,6,Alexandria National Museum
+2024-04-28,"Al Agamy St, Alexandria, Egypt",Yes,Yes,07:30,No,4,"Pompey's Pillar, San Stefano Cinema"
+2024-05-01,"Stanley St, Alexandria, Egypt",Yes,No,09:30,No,3,Qaitbay Citadel
+2024-01-14,"Sidi Gaber St, Alexandria, Egypt",No,Yes,12:30,No,2,Renaissance Cinema
+2024-05-16,"Sidi Gaber St, Alexandria, Egypt",No,No,08:00,Yes,2,Montazah Palace Gardens
+2024-01-03,"Al Agamy St, Alexandria, Egypt",No,Yes,11:30,Yes,6,"Zahran Cinema, Mamoura Beach"
+2024-01-17,"El Horreya St, Alexandria, Egypt",No,Yes,14:00,Yes,6,"Zahran Cinema, Montazah Palace Gardens"
+2024-02-03,"El Horreya St, Alexandria, Egypt",No,Yes,10:45,Yes,4,"Zahran Cinema, Montazah Palace Gardens"
+2024-03-03,"Corniche St, Alexandria, Egypt",No,Yes,13:45,No,2,San Stefano Cinema
+2024-07-25,"Corniche St, Alexandria, Egypt",Yes,No,15:30,Yes,1,"Qaitbay Citadel, Stanley Beach"
+2024-04-26,"Sidi Gaber St, Alexandria, Egypt",Yes,No,09:15,Yes,5,"Qaitbay Citadel, Stanley Beach"
+2024-05-11,"Corniche St, Alexandria, Egypt",Yes,No,12:15,No,6,Pompey's Pillar
+2024-07-10,"Sidi Gaber St, Alexandria, Egypt",Yes,No,10:30,Yes,5,"Qaitbay Citadel, Montazah Palace Gardens"
+2024-01-10,"Sidi Gaber St, Alexandria, Egypt",No,Yes,09:00,Yes,6,"Renaissance Cinema, Stanley Beach"
+2024-09-28,"Al Agamy St, Alexandria, Egypt",Yes,Yes,13:45,Yes,3,"Alexandria National Museum, San Stefano Cinema, Montazah Palace Gardens"
+2024-04-04,"Sidi Gaber St, Alexandria, Egypt",No,Yes,09:15,No,5,Renaissance Cinema
+2024-11-16,"El Horreya St, Alexandria, Egypt",No,No,14:30,Yes,1,Montazah Palace Gardens
+2024-01-21,"El Horreya St, Alexandria, Egypt",Yes,Yes,09:30,Yes,2,"Pompey's Pillar, San Stefano Cinema, Montazah Palace Gardens"
+2024-09-07,"Al Agamy St, Alexandria, Egypt",Yes,No,09:30,Yes,3,"Alexandria National Museum, Stanley Beach"
+2024-03-13,"Corniche St, Alexandria, Egypt",No,Yes,12:15,No,1,Zahran Cinema
+2024-08-15,"Corniche St, Alexandria, Egypt",Yes,No,17:45,Yes,3,"Alexandria National Museum, Stanley Beach"
+2024-10-06,"Sidi Gaber St, Alexandria, Egypt",Yes,No,11:30,Yes,1,"Pompey's Pillar, Mamoura Beach"
+2024-02-04,"Sidi Gaber St, Alexandria, Egypt",No,No,10:45,Yes,4,Montazah Palace Gardens
+2024-05-17,"Stanley St, Alexandria, Egypt",Yes,No,13:00,Yes,1,"Qaitbay Citadel, Mamoura Beach"
+2024-11-28,"Sidi Gaber St, Alexandria, Egypt",No,Yes,11:45,Yes,3,"San Stefano Cinema, Mamoura Beach"
+2024-11-24,"Al Agamy St, Alexandria, Egypt",No,Yes,16:30,No,1,Renaissance Cinema
+2024-10-24,"Sidi Gaber St, Alexandria, Egypt",No,Yes,10:15,No,3,San Stefano Cinema
+2024-05-10,"Stanley St, Alexandria, Egypt",Yes,Yes,09:30,No,3,"Alexandria National Museum, San Stefano Cinema"
+2024-02-27,"El Horreya St, Alexandria, Egypt",No,No,11:45,Yes,1,Stanley Beach
+2024-12-02,"Stanley St, Alexandria, Egypt",Yes,No,11:45,No,3,Alexandria National Museum
+2024-02-23,"Sidi Gaber St, Alexandria, Egypt",No,Yes,14:30,No,6,Zahran Cinema
+2024-04-29,"Al Agamy St, Alexandria, Egypt",Yes,Yes,10:15,Yes,1,"Roman Amphitheatre, San Stefano Cinema, Montazah Palace Gardens"
+2024-03-01,"Al Agamy St, Alexandria, Egypt",Yes,Yes,14:00,Yes,3,"Alexandria National Museum, Zahran Cinema, Mamoura Beach"
+2024-08-20,"Stanley St, Alexandria, Egypt",No,Yes,11:30,Yes,2,"Renaissance Cinema, Montazah Palace Gardens"
+2024-10-16,"El Horreya St, Alexandria, Egypt",No,Yes,09:30,Yes,3,"San Stefano Cinema, Mamoura Beach"
+2024-07-17,"Al Agamy St, Alexandria, Egypt",Yes,No,10:15,Yes,2,"Qaitbay Citadel, Montazah Palace Gardens"
+2024-11-14,"El Horreya St, Alexandria, Egypt",No,Yes,06:30,No,2,Zahran Cinema
+2024-01-03,"Corniche St, Alexandria, Egypt",No,Yes,08:45,No,1,San Stefano Cinema
+2024-02-04,"Sidi Gaber St, Alexandria, Egypt",Yes,No,09:15,Yes,4,"Roman Amphitheatre, Montazah Palace Gardens"
+2024-04-15,"Stanley St, Alexandria, Egypt",No,Yes,10:45,Yes,5,"San Stefano Cinema, Stanley Beach"
+2024-12-22,"El Horreya St, Alexandria, Egypt",Yes,Yes,07:45,No,5,"Alexandria National Museum, Zahran Cinema"
+2024-05-23,"El Horreya St, Alexandria, Egypt",No,Yes,06:00,No,3,San Stefano Cinema
+2024-04-10,"Stanley St, Alexandria, Egypt",Yes,Yes,14:00,Yes,3,"Qaitbay Citadel, Zahran Cinema, Montazah Palace Gardens"
+2024-02-06,"Stanley St, Alexandria, Egypt",Yes,Yes,17:30,No,5,"Pompey's Pillar, Renaissance Cinema"
+2024-08-14,"Corniche St, Alexandria, Egypt",No,Yes,13:30,Yes,5,"San Stefano Cinema, Stanley Beach"
+2024-11-04,"Al Agamy St, Alexandria, Egypt",No,Yes,14:30,No,2,Zahran Cinema
+2024-04-03,"El Horreya St, Alexandria, Egypt",Yes,No,08:00,Yes,3,"Alexandria National Museum, Stanley Beach"
+2024-05-14,"Stanley St, Alexandria, Egypt",Yes,No,12:30,No,1,Alexandria National Museum
+2024-11-19,"Stanley St, Alexandria, Egypt",Yes,Yes,15:30,Yes,4,"Alexandria National Museum, Renaissance Cinema, Mamoura Beach"
+2024-10-19,"Corniche St, Alexandria, Egypt",No,Yes,10:00,Yes,3,"Renaissance Cinema, Stanley Beach"
+2024-11-07,"Al Agamy St, Alexandria, Egypt",Yes,Yes,07:30,Yes,4,"Pompey's Pillar, Zahran Cinema, Stanley Beach"
+2024-11-23,"Al Agamy St, Alexandria, Egypt",Yes,Yes,08:45,Yes,6,"Pompey's Pillar, San Stefano Cinema, Montazah Palace Gardens"
+2024-12-23,"El Horreya St, Alexandria, Egypt",Yes,No,09:00,Yes,6,"Alexandria National Museum, Stanley Beach"
+2024-03-27,"El Horreya St, Alexandria, Egypt",No,Yes,10:45,No,5,San Stefano Cinema
+2024-05-22,"Sidi Gaber St, Alexandria, Egypt",No,No,16:30,Yes,1,Mamoura Beach
+2024-10-18,"Al Agamy St, Alexandria, Egypt",No,Yes,07:45,No,5,Renaissance Cinema
+2024-10-30,"Al Agamy St, Alexandria, Egypt",Yes,No,12:00,Yes,4,"Alexandria National Museum, Stanley Beach"
+2024-04-10,"Al Agamy St, Alexandria, Egypt",Yes,Yes,17:00,No,3,"Pompey's Pillar, Renaissance Cinema"
+2024-08-10,"El Horreya St, Alexandria, Egypt",Yes,No,12:15,No,6,Pompey's Pillar
+2024-02-23,"Sidi Gaber St, Alexandria, Egypt",No,Yes,07:00,No,6,Renaissance Cinema
+2024-12-28,"Sidi Gaber St, Alexandria, Egypt",Yes,No,17:15,Yes,5,"Roman Amphitheatre, Mamoura Beach"
+2024-07-03,"Al Agamy St, Alexandria, Egypt",No,Yes,09:00,Yes,6,"Zahran Cinema, Montazah Palace Gardens"
+2024-05-13,"Sidi Gaber St, Alexandria, Egypt",Yes,No,13:45,Yes,3,"Alexandria National Museum, Mamoura Beach"
+2024-11-26,"Al Agamy St, Alexandria, Egypt",Yes,Yes,16:45,Yes,1,"Qaitbay Citadel, Renaissance Cinema, Stanley Beach"
+2024-11-29,"El Horreya St, Alexandria, Egypt",Yes,No,12:00,No,3,Pompey's Pillar
+2024-04-06,"Corniche St, Alexandria, Egypt",No,No,15:30,Yes,6,Montazah Palace Gardens
+2024-09-18,"El Horreya St, Alexandria, Egypt",No,Yes,14:00,No,4,San Stefano Cinema
+2024-09-25,"Stanley St, Alexandria, Egypt",Yes,No,10:45,Yes,1,"Pompey's Pillar, Mamoura Beach"
+2024-09-30,"Al Agamy St, Alexandria, Egypt",No,Yes,16:45,No,5,Zahran Cinema
+2024-02-13,"Al Agamy St, Alexandria, Egypt",No,No,16:15,Yes,6,Montazah Palace Gardens
+2024-02-20,"Corniche St, Alexandria, Egypt",Yes,Yes,13:45,Yes,6,"Roman Amphitheatre, Renaissance Cinema, Stanley Beach"
+2024-02-17,"Corniche St, Alexandria, Egypt",Yes,Yes,07:45,No,1,"Qaitbay Citadel, San Stefano Cinema"
+2024-02-18,"Sidi Gaber St, Alexandria, Egypt",No,No,10:45,Yes,3,Montazah Palace Gardens
+2024-11-11,"El Horreya St, Alexandria, Egypt",Yes,Yes,15:30,No,1,"Qaitbay Citadel, San Stefano Cinema"
+2024-10-04,"Stanley St, Alexandria, Egypt",Yes,No,15:30,Yes,3,"Qaitbay Citadel, Montazah Palace Gardens"
+2024-10-10,"Al Agamy St, Alexandria, Egypt",No,Yes,11:00,No,4,San Stefano Cinema
+2024-05-28,"Al Agamy St, Alexandria, Egypt",No,Yes,12:00,No,4,Zahran Cinema
+2024-11-29,"Corniche St, Alexandria, Egypt",Yes,No,09:30,No,6,Pompey's Pillar
+2024-01-28,"El Horreya St, Alexandria, Egypt",No,Yes,15:15,Yes,1,"Renaissance Cinema, Mamoura Beach"
+2024-05-01,"Corniche St, Alexandria, Egypt",No,Yes,08:45,No,2,Zahran Cinema
+2024-08-30,"Sidi Gaber St, Alexandria, Egypt",No,Yes,15:00,No,1,Renaissance Cinema
+2024-06-15,"El Horreya St, Alexandria, Egypt",No,Yes,17:15,Yes,1,"Renaissance Cinema, Montazah Palace Gardens"
+2024-03-05,"Stanley St, Alexandria, Egypt",Yes,No,09:15,No,3,Qaitbay Citadel
+2024-07-20,"Stanley St, Alexandria, Egypt",No,Yes,12:30,No,4,Zahran Cinema
+2024-07-05,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,14:00,No,1,"Roman Amphitheatre, San Stefano Cinema"
+2024-09-25,"El Horreya St, Alexandria, Egypt",Yes,Yes,15:45,No,2,"Roman Amphitheatre, San Stefano Cinema"
+2024-09-24,"El Horreya St, Alexandria, Egypt",No,Yes,10:15,No,3,Zahran Cinema
+2024-03-07,"El Horreya St, Alexandria, Egypt",Yes,No,17:30,Yes,4,"Roman Amphitheatre, Stanley Beach"
+2024-11-16,"Corniche St, Alexandria, Egypt",No,Yes,17:45,No,3,Renaissance Cinema
+2024-04-28,"Corniche St, Alexandria, Egypt",No,Yes,12:30,No,6,Renaissance Cinema
+2024-10-21,"El Horreya St, Alexandria, Egypt",Yes,No,09:15,No,5,Alexandria National Museum
+2024-11-06,"Stanley St, Alexandria, Egypt",Yes,No,10:45,No,6,Pompey's Pillar
+2024-06-13,"Corniche St, Alexandria, Egypt",No,Yes,14:30,Yes,1,"Renaissance Cinema, Stanley Beach"
+2024-03-31,"Al Agamy St, Alexandria, Egypt",No,Yes,13:15,No,1,Renaissance Cinema
+2024-09-02,"El Horreya St, Alexandria, Egypt",Yes,Yes,17:00,No,4,"Qaitbay Citadel, Renaissance Cinema"
+2024-10-11,"El Horreya St, Alexandria, Egypt",No,No,12:15,Yes,2,Stanley Beach
+2024-01-05,"Corniche St, Alexandria, Egypt",No,Yes,16:15,No,4,Zahran Cinema
+2024-03-19,"Sidi Gaber St, Alexandria, Egypt",No,No,08:45,Yes,5,Montazah Palace Gardens
+2024-01-27,"El Horreya St, Alexandria, Egypt",No,Yes,07:45,No,2,San Stefano Cinema
+2024-06-25,"Al Agamy St, Alexandria, Egypt",Yes,No,07:00,Yes,4,"Alexandria National Museum, Stanley Beach"
+2024-04-14,"Stanley St, Alexandria, Egypt",Yes,Yes,14:30,No,5,"Qaitbay Citadel, Zahran Cinema"
+2024-09-14,"El Horreya St, Alexandria, Egypt",Yes,No,16:00,No,5,Roman Amphitheatre
+2024-09-13,"Corniche St, Alexandria, Egypt",Yes,Yes,08:15,Yes,1,"Roman Amphitheatre, Renaissance Cinema, Stanley Beach"
+2024-08-01,"Al Agamy St, Alexandria, Egypt",No,Yes,10:00,No,6,Renaissance Cinema
+2024-06-12,"Corniche St, Alexandria, Egypt",No,Yes,13:30,No,6,Renaissance Cinema
+2024-11-07,"Corniche St, Alexandria, Egypt",Yes,No,08:00,No,6,Pompey's Pillar
+2024-12-16,"Sidi Gaber St, Alexandria, Egypt",No,Yes,12:45,No,5,Zahran Cinema
+2024-01-12,"Al Agamy St, Alexandria, Egypt",Yes,Yes,09:30,Yes,6,"Pompey's Pillar, San Stefano Cinema, Mamoura Beach"
+2024-04-23,"Sidi Gaber St, Alexandria, Egypt",Yes,No,15:45,Yes,4,"Roman Amphitheatre, Stanley Beach"
+2024-03-06,"Stanley St, Alexandria, Egypt",Yes,Yes,06:30,Yes,2,"Alexandria National Museum, Renaissance Cinema, Mamoura Beach"
+2024-02-17,"El Horreya St, Alexandria, Egypt",Yes,No,13:00,Yes,1,"Pompey's Pillar, Montazah Palace Gardens"
+2024-08-12,"Al Agamy St, Alexandria, Egypt",No,Yes,16:30,No,4,San Stefano Cinema
+2024-02-27,"Al Agamy St, Alexandria, Egypt",Yes,Yes,10:15,Yes,1,"Qaitbay Citadel, San Stefano Cinema, Stanley Beach"
+2024-10-19,"Corniche St, Alexandria, Egypt",No,No,09:00,Yes,4,Stanley Beach
+2024-11-22,"Sidi Gaber St, Alexandria, Egypt",Yes,No,07:45,No,5,Pompey's Pillar
+2024-11-28,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,07:45,No,1,"Roman Amphitheatre, Renaissance Cinema"
+2024-09-23,"El Horreya St, Alexandria, Egypt",Yes,No,16:00,Yes,2,"Alexandria National Museum, Stanley Beach"
+2024-06-21,"Stanley St, Alexandria, Egypt",Yes,No,06:15,Yes,3,"Qaitbay Citadel, Mamoura Beach"
+2024-02-18,"Al Agamy St, Alexandria, Egypt",No,Yes,16:00,No,6,San Stefano Cinema
+2024-09-22,"Sidi Gaber St, Alexandria, Egypt",No,Yes,09:30,No,2,San Stefano Cinema
+2024-02-08,"Corniche St, Alexandria, Egypt",Yes,Yes,14:30,Yes,3,"Roman Amphitheatre, Renaissance Cinema, Stanley Beach"
+2024-05-29,"Stanley St, Alexandria, Egypt",Yes,Yes,09:15,No,1,"Alexandria National Museum, San Stefano Cinema"
+2024-06-24,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,12:15,Yes,6,"Roman Amphitheatre, San Stefano Cinema, Montazah Palace Gardens"
+2024-05-31,"Al Agamy St, Alexandria, Egypt",No,Yes,15:30,Yes,1,"Zahran Cinema, Stanley Beach"
+2024-11-26,"Corniche St, Alexandria, Egypt",Yes,No,08:45,No,3,Pompey's Pillar
+2024-05-23,"El Horreya St, Alexandria, Egypt",Yes,No,12:45,No,1,Pompey's Pillar
+2024-01-04,"Al Agamy St, Alexandria, Egypt",Yes,Yes,12:00,Yes,5,"Alexandria National Museum, San Stefano Cinema, Montazah Palace Gardens"
+2024-09-10,"Stanley St, Alexandria, Egypt",No,Yes,06:45,Yes,6,"Renaissance Cinema, Stanley Beach"
+2024-10-28,"Corniche St, Alexandria, Egypt",Yes,No,10:45,Yes,2,"Alexandria National Museum, Mamoura Beach"
+2024-12-06,"Corniche St, Alexandria, Egypt",No,Yes,12:45,No,3,Zahran Cinema
+2024-06-17,"El Horreya St, Alexandria, Egypt",Yes,Yes,10:30,Yes,3,"Pompey's Pillar, San Stefano Cinema, Montazah Palace Gardens"
+2024-01-29,"Al Agamy St, Alexandria, Egypt",Yes,No,10:30,No,6,Roman Amphitheatre
+2024-02-19,"Stanley St, Alexandria, Egypt",No,Yes,06:45,No,6,Renaissance Cinema
+2024-04-09,"Sidi Gaber St, Alexandria, Egypt",Yes,No,14:00,No,6,Roman Amphitheatre
+2024-07-15,"Stanley St, Alexandria, Egypt",Yes,No,14:15,Yes,2,"Alexandria National Museum, Montazah Palace Gardens"
+2024-03-30,"Corniche St, Alexandria, Egypt",Yes,Yes,16:45,Yes,2,"Pompey's Pillar, Zahran Cinema, Montazah Palace Gardens"
+2024-10-12,"Corniche St, Alexandria, Egypt",No,Yes,06:30,No,5,Renaissance Cinema
+2024-07-13,"Al Agamy St, Alexandria, Egypt",No,Yes,10:00,Yes,5,"Zahran Cinema, Mamoura Beach"
+2024-12-31,"Corniche St, Alexandria, Egypt",Yes,No,06:15,No,5,Pompey's Pillar
+2024-07-21,"Sidi Gaber St, Alexandria, Egypt",No,No,16:15,Yes,1,Montazah Palace Gardens
+2024-07-12,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,06:15,Yes,2,"Roman Amphitheatre, Renaissance Cinema, Stanley Beach"
+2024-04-20,"Al Agamy St, Alexandria, Egypt",Yes,Yes,16:00,Yes,5,"Qaitbay Citadel, San Stefano Cinema, Montazah Palace Gardens"
+2024-11-30,"Al Agamy St, Alexandria, Egypt",No,Yes,08:30,No,2,San Stefano Cinema
+2024-12-26,"El Horreya St, Alexandria, Egypt",Yes,No,12:30,No,6,Roman Amphitheatre
+2024-03-19,"Al Agamy St, Alexandria, Egypt",No,Yes,09:45,Yes,1,"Renaissance Cinema, Stanley Beach"
+2024-07-28,"Stanley St, Alexandria, Egypt",Yes,Yes,10:45,Yes,6,"Alexandria National Museum, Zahran Cinema, Stanley Beach"
+2024-04-20,"Corniche St, Alexandria, Egypt",Yes,No,12:45,Yes,6,"Qaitbay Citadel, Mamoura Beach"
+2024-11-06,"Al Agamy St, Alexandria, Egypt",Yes,No,11:30,Yes,1,"Qaitbay Citadel, Mamoura Beach"
+2024-08-04,"Al Agamy St, Alexandria, Egypt",No,Yes,10:00,No,2,Renaissance Cinema
+2024-04-27,"Corniche St, Alexandria, Egypt",No,Yes,14:45,Yes,4,"Zahran Cinema, Mamoura Beach"
+2024-12-25,"El Horreya St, Alexandria, Egypt",No,No,12:30,Yes,3,Montazah Palace Gardens
+2024-07-20,"Al Agamy St, Alexandria, Egypt",No,No,13:45,Yes,6,Stanley Beach
+2024-06-05,"Corniche St, Alexandria, Egypt",Yes,Yes,12:00,No,4,"Roman Amphitheatre, Zahran Cinema"
+2024-04-09,"Stanley St, Alexandria, Egypt",Yes,Yes,12:45,No,5,"Roman Amphitheatre, Zahran Cinema"
+2024-06-28,"Al Agamy St, Alexandria, Egypt",Yes,Yes,17:00,No,4,"Pompey's Pillar, Zahran Cinema"
+2024-03-24,"El Horreya St, Alexandria, Egypt",No,Yes,12:15,No,5,San Stefano Cinema
+2024-11-15,"Corniche St, Alexandria, Egypt",No,No,11:15,Yes,6,Stanley Beach
+2024-04-03,"Al Agamy St, Alexandria, Egypt",Yes,No,11:15,Yes,1,"Roman Amphitheatre, Montazah Palace Gardens"
+2024-12-06,"Sidi Gaber St, Alexandria, Egypt",No,Yes,09:30,Yes,6,"San Stefano Cinema, Mamoura Beach"
+2024-10-22,"Sidi Gaber St, Alexandria, Egypt",No,Yes,14:45,No,5,Zahran Cinema
+2024-05-30,"Corniche St, Alexandria, Egypt",No,Yes,13:15,Yes,1,"San Stefano Cinema, Stanley Beach"
+2024-04-01,"El Horreya St, Alexandria, Egypt",Yes,No,16:15,Yes,4,"Alexandria National Museum, Montazah Palace Gardens"
+2024-02-07,"Sidi Gaber St, Alexandria, Egypt",No,No,10:00,Yes,2,Montazah Palace Gardens
+2024-06-11,"El Horreya St, Alexandria, Egypt",No,No,12:00,Yes,6,Montazah Palace Gardens
+2024-01-20,"Al Agamy St, Alexandria, Egypt",Yes,No,06:45,No,6,Qaitbay Citadel
+2024-07-13,"Al Agamy St, Alexandria, Egypt",No,Yes,13:15,No,4,Zahran Cinema
+2024-04-23,"Stanley St, Alexandria, Egypt",No,Yes,16:45,No,5,San Stefano Cinema
+2024-05-23,"Corniche St, Alexandria, Egypt",No,Yes,12:15,No,1,San Stefano Cinema
+2024-05-28,"El Horreya St, Alexandria, Egypt",Yes,Yes,09:45,Yes,6,"Roman Amphitheatre, Zahran Cinema, Montazah Palace Gardens"
+2024-09-06,"El Horreya St, Alexandria, Egypt",No,Yes,17:45,Yes,6,"San Stefano Cinema, Montazah Palace Gardens"
+2024-01-21,"Al Agamy St, Alexandria, Egypt",Yes,No,06:45,No,2,Alexandria National Museum
+2024-03-31,"Stanley St, Alexandria, Egypt",Yes,No,12:15,Yes,1,"Pompey's Pillar, Stanley Beach"
+2024-05-14,"Sidi Gaber St, Alexandria, Egypt",No,Yes,15:15,Yes,5,"San Stefano Cinema, Mamoura Beach"
+2024-04-20,"Corniche St, Alexandria, Egypt",No,No,16:00,Yes,4,Stanley Beach
+2024-05-20,"Al Agamy St, Alexandria, Egypt",Yes,Yes,10:15,Yes,2,"Alexandria National Museum, Zahran Cinema, Mamoura Beach"
+2024-01-07,"Corniche St, Alexandria, Egypt",Yes,Yes,12:45,No,5,"Alexandria National Museum, Renaissance Cinema"
+2024-12-08,"Sidi Gaber St, Alexandria, Egypt",Yes,No,11:00,No,4,Alexandria National Museum
+2024-06-12,"Al Agamy St, Alexandria, Egypt",Yes,No,15:15,No,1,Alexandria National Museum
+2024-01-03,"Sidi Gaber St, Alexandria, Egypt",Yes,No,15:45,Yes,6,"Roman Amphitheatre, Montazah Palace Gardens"
+2024-06-14,"Corniche St, Alexandria, Egypt",Yes,Yes,15:30,No,3,"Alexandria National Museum, San Stefano Cinema"
+2024-11-24,"Stanley St, Alexandria, Egypt",Yes,Yes,08:15,Yes,6,"Alexandria National Museum, Renaissance Cinema, Mamoura Beach"
+2024-12-20,"El Horreya St, Alexandria, Egypt",No,Yes,11:30,Yes,2,"Renaissance Cinema, Mamoura Beach"
+2024-05-17,"Sidi Gaber St, Alexandria, Egypt",Yes,No,14:15,Yes,2,"Alexandria National Museum, Stanley Beach"
+2024-08-04,"El Horreya St, Alexandria, Egypt",No,No,15:45,Yes,6,Mamoura Beach
+2024-11-01,"El Horreya St, Alexandria, Egypt",Yes,No,16:15,No,3,Roman Amphitheatre
+2024-11-24,"Sidi Gaber St, Alexandria, Egypt",No,Yes,09:45,No,4,San Stefano Cinema
+2024-07-21,"El Horreya St, Alexandria, Egypt",No,Yes,13:15,No,5,Zahran Cinema
+2024-09-24,"El Horreya St, Alexandria, Egypt",No,Yes,16:15,Yes,1,"Zahran Cinema, Mamoura Beach"
+2024-01-16,"Stanley St, Alexandria, Egypt",Yes,No,06:15,No,2,Pompey's Pillar
+2024-07-24,"Al Agamy St, Alexandria, Egypt",No,No,06:30,Yes,4,Montazah Palace Gardens
+2024-09-05,"El Horreya St, Alexandria, Egypt",No,No,14:00,Yes,5,Mamoura Beach
+2024-12-15,"Stanley St, Alexandria, Egypt",No,No,11:15,Yes,1,Stanley Beach
+2024-03-06,"Stanley St, Alexandria, Egypt",No,Yes,09:00,Yes,2,"Renaissance Cinema, Montazah Palace Gardens"
+2024-03-06,"Corniche St, Alexandria, Egypt",Yes,No,16:45,No,4,Qaitbay Citadel
+2024-05-21,"Al Agamy St, Alexandria, Egypt",Yes,No,10:00,No,6,Qaitbay Citadel
+2024-09-10,"El Horreya St, Alexandria, Egypt",No,Yes,06:00,Yes,5,"Zahran Cinema, Stanley Beach"
+2024-10-20,"Corniche St, Alexandria, Egypt",Yes,Yes,07:30,No,6,"Alexandria National Museum, Zahran Cinema"
+2024-02-06,"El Horreya St, Alexandria, Egypt",Yes,Yes,15:30,No,6,"Qaitbay Citadel, Zahran Cinema"
+2024-04-04,"Stanley St, Alexandria, Egypt",No,Yes,10:30,No,3,San Stefano Cinema
+2024-07-30,"Al Agamy St, Alexandria, Egypt",Yes,No,11:15,Yes,3,"Pompey's Pillar, Stanley Beach"
+2024-08-17,"Al Agamy St, Alexandria, Egypt",Yes,Yes,11:00,No,1,"Pompey's Pillar, Renaissance Cinema"
+2024-10-23,"Stanley St, Alexandria, Egypt",Yes,No,10:15,Yes,2,"Alexandria National Museum, Montazah Palace Gardens"
+2024-08-28,"Stanley St, Alexandria, Egypt",Yes,No,13:45,No,5,Pompey's Pillar
+2024-04-29,"El Horreya St, Alexandria, Egypt",Yes,No,16:30,Yes,1,"Qaitbay Citadel, Montazah Palace Gardens"
+2024-11-17,"Al Agamy St, Alexandria, Egypt",No,No,15:45,Yes,4,Montazah Palace Gardens
+2024-09-24,"Corniche St, Alexandria, Egypt",No,Yes,08:45,No,2,San Stefano Cinema
+2024-01-26,"El Horreya St, Alexandria, Egypt",Yes,Yes,12:15,No,4,"Alexandria National Museum, San Stefano Cinema"
+2024-11-21,"El Horreya St, Alexandria, Egypt",Yes,No,15:30,Yes,6,"Qaitbay Citadel, Stanley Beach"
+2024-03-27,"Corniche St, Alexandria, Egypt",No,Yes,12:00,No,3,Zahran Cinema
+2024-12-20,"Al Agamy St, Alexandria, Egypt",No,No,08:00,Yes,6,Mamoura Beach
+2024-01-24,"Corniche St, Alexandria, Egypt",No,No,09:15,Yes,5,Montazah Palace Gardens
+2024-04-10,"Corniche St, Alexandria, Egypt",Yes,No,11:30,No,3,Qaitbay Citadel
+2024-09-24,"Stanley St, Alexandria, Egypt",Yes,Yes,11:45,Yes,2,"Roman Amphitheatre, Renaissance Cinema, Montazah Palace Gardens"
+2024-07-20,"Stanley St, Alexandria, Egypt",Yes,Yes,06:15,Yes,4,"Pompey's Pillar, Zahran Cinema, Mamoura Beach"
+2024-06-14,"Al Agamy St, Alexandria, Egypt",No,Yes,12:45,Yes,2,"Zahran Cinema, Montazah Palace Gardens"
+2024-02-29,"Stanley St, Alexandria, Egypt",No,Yes,17:15,Yes,1,"Renaissance Cinema, Stanley Beach"
+2024-06-03,"Al Agamy St, Alexandria, Egypt",Yes,Yes,08:45,Yes,6,"Pompey's Pillar, San Stefano Cinema, Montazah Palace Gardens"
+2024-03-02,"Al Agamy St, Alexandria, Egypt",No,Yes,10:30,No,6,San Stefano Cinema
+2024-10-08,"Sidi Gaber St, Alexandria, Egypt",No,No,13:45,Yes,4,Montazah Palace Gardens
+2024-03-27,"Stanley St, Alexandria, Egypt",No,Yes,13:15,No,6,Zahran Cinema
+2024-04-25,"Al Agamy St, Alexandria, Egypt",No,Yes,07:30,No,4,Renaissance Cinema
+2024-02-08,"Al Agamy St, Alexandria, Egypt",Yes,No,17:45,No,2,Roman Amphitheatre
+2024-06-18,"Stanley St, Alexandria, Egypt",Yes,No,14:00,No,5,Qaitbay Citadel
+2024-09-07,"Al Agamy St, Alexandria, Egypt",Yes,Yes,12:30,Yes,1,"Alexandria National Museum, San Stefano Cinema, Mamoura Beach"
+2024-04-15,"Al Agamy St, Alexandria, Egypt",Yes,No,08:30,Yes,6,"Alexandria National Museum, Stanley Beach"
+2024-03-22,"El Horreya St, Alexandria, Egypt",Yes,No,14:15,No,5,Pompey's Pillar
+2024-12-21,"Stanley St, Alexandria, Egypt",Yes,Yes,09:45,No,4,"Roman Amphitheatre, San Stefano Cinema"
+2024-12-26,"Corniche St, Alexandria, Egypt",Yes,Yes,12:45,No,2,"Qaitbay Citadel, San Stefano Cinema"
+2024-04-26,"El Horreya St, Alexandria, Egypt",No,Yes,16:30,Yes,6,"Zahran Cinema, Mamoura Beach"
+2024-09-04,"Al Agamy St, Alexandria, Egypt",No,Yes,06:00,No,2,Zahran Cinema
+2024-03-31,"Corniche St, Alexandria, Egypt",Yes,No,14:00,Yes,5,"Pompey's Pillar, Stanley Beach"
+2024-05-02,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,06:30,Yes,3,"Alexandria National Museum, San Stefano Cinema, Montazah Palace Gardens"
+2024-05-21,"Corniche St, Alexandria, Egypt",No,Yes,07:45,No,3,San Stefano Cinema
+2024-06-11,"Corniche St, Alexandria, Egypt",Yes,No,09:30,Yes,4,"Pompey's Pillar, Stanley Beach"
+2024-03-26,"El Horreya St, Alexandria, Egypt",No,No,11:15,Yes,3,Stanley Beach
+2024-03-04,"Stanley St, Alexandria, Egypt",No,Yes,13:00,No,6,Renaissance Cinema
+2024-04-19,"Al Agamy St, Alexandria, Egypt",Yes,No,11:45,No,5,Alexandria National Museum
+2024-07-24,"Corniche St, Alexandria, Egypt",Yes,Yes,11:30,Yes,1,"Roman Amphitheatre, Zahran Cinema, Mamoura Beach"
+2024-08-27,"Al Agamy St, Alexandria, Egypt",No,Yes,17:30,No,4,Zahran Cinema
+2024-10-04,"Sidi Gaber St, Alexandria, Egypt",No,Yes,06:45,No,1,San Stefano Cinema
+2024-06-22,"El Horreya St, Alexandria, Egypt",No,No,07:45,Yes,3,Mamoura Beach
+2024-09-07,"Sidi Gaber St, Alexandria, Egypt",Yes,No,10:30,No,2,Qaitbay Citadel
+2024-05-26,"Al Agamy St, Alexandria, Egypt",No,Yes,14:15,Yes,5,"San Stefano Cinema, Mamoura Beach"
+2024-05-05,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,12:45,No,5,"Pompey's Pillar, San Stefano Cinema"
+2024-05-19,"Sidi Gaber St, Alexandria, Egypt",No,No,16:30,Yes,4,Montazah Palace Gardens
+2024-03-20,"Sidi Gaber St, Alexandria, Egypt",Yes,No,12:45,Yes,4,"Alexandria National Museum, Stanley Beach"
+2024-02-05,"Al Agamy St, Alexandria, Egypt",Yes,Yes,14:30,No,5,"Qaitbay Citadel, Renaissance Cinema"
+2024-05-06,"Stanley St, Alexandria, Egypt",No,No,06:30,Yes,6,Stanley Beach
+2024-12-06,"Al Agamy St, Alexandria, Egypt",No,No,09:45,Yes,2,Montazah Palace Gardens
+2024-08-06,"Corniche St, Alexandria, Egypt",No,Yes,06:30,No,1,Renaissance Cinema
+2024-08-09,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,08:00,Yes,5,"Roman Amphitheatre, Zahran Cinema, Stanley Beach"
+2024-06-08,"Stanley St, Alexandria, Egypt",No,No,15:30,Yes,6,Mamoura Beach
+2024-05-09,"Corniche St, Alexandria, Egypt",Yes,No,08:15,No,3,Pompey's Pillar
+2024-12-15,"El Horreya St, Alexandria, Egypt",Yes,No,14:30,No,5,Roman Amphitheatre
+2024-06-24,"Sidi Gaber St, Alexandria, Egypt",Yes,Yes,11:15,No,2,"Alexandria National Museum, Renaissance Cinema"
+2024-02-06,"Sidi Gaber St, Alexandria, Egypt",No,Yes,11:15,No,2,Zahran Cinema
+2024-09-30,"Al Agamy St, Alexandria, Egypt",No,Yes,12:45,No,2,Renaissance Cinema
+2024-01-03,"Sidi Gaber St, Alexandria, Egypt",Yes,No,13:15,Yes,6,"Qaitbay Citadel, Mamoura Beach"
+2024-11-22,"Stanley St, Alexandria, Egypt",Yes,No,09:15,No,1,Pompey's Pillar
+2024-02-13,"Sidi Gaber St, Alexandria, Egypt",Yes,No,09:30,No,4,Qaitbay Citadel
+2024-02-15,"Al Agamy St, Alexandria, Egypt",Yes,No,06:30,No,4,Qaitbay Citadel
+2024-04-30,"Sidi Gaber St, Alexandria, Egypt",No,Yes,06:00,Yes,3,"San Stefano Cinema, Stanley Beach"
+2024-12-07,"Al Agamy St, Alexandria, Egypt",Yes,No,16:30,No,4,Qaitbay Citadel
+2024-12-02,"Stanley St, Alexandria, Egypt",No,No,13:00,Yes,2,Montazah Palace Gardens
+2024-06-02,"Al Agamy St, Alexandria, Egypt",Yes,No,13:15,No,6,Roman Amphitheatre
+2024-05-24,"Sidi Gaber St, Alexandria, Egypt",Yes,No,17:00,Yes,4,"Alexandria National Museum, Montazah Palace Gardens"
+2024-09-02,"Corniche St, Alexandria, Egypt",No,Yes,14:45,Yes,6,"Renaissance Cinema, Montazah Palace Gardens"
