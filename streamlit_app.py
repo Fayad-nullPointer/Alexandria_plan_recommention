@@ -320,7 +320,7 @@ def main():
     family_size = st.sidebar.slider("How many family members will join?", 1, 6, 2)
     
     # Hotel preference
-    preferred_hotel = st.sidebar.selectbox("Select your preferred hotel location:", all_hotels)
+    preferred_hotel = st.sidebar.selectbox("Select your nearest hotel location:", all_hotels)
     
     # Destination preferences
     selected_destinations = st.sidebar.multiselect("Select your preferred destinations:", all_destinations)
