@@ -254,6 +254,38 @@ def get_cached_image(place_name):
 if not os.path.exists("image_cache"):
     os.makedirs("image_cache", exist_ok=True)
     
+# Function to cache generated recommendations
+@st.cache_data
+def generate_cached_recommendations(
+    features,
+    df,
+    min_time,
+    max_time,
+    historical_preference,
+    cinema_preference,
+    sea_preference,
+    time_preference,
+    family_size,
+    preferred_destinations,
+    preferred_hotel,
+    n
+):
+    """Cache recommendations to improve performance"""
+    return get_recommendations_by_preferences(
+        features=features,
+        df=df,
+        min_time=min_time,
+        max_time=max_time,
+        historical_preference=historical_preference,
+        cinema_preference=cinema_preference,
+        sea_preference=sea_preference,
+        time_preference=time_preference,
+        family_size=family_size,
+        preferred_destinations=preferred_destinations,
+        preferred_hotel=preferred_hotel,
+        n=n
+    )
+
 # Main application
 def main():
     # Title and description
@@ -295,12 +327,23 @@ def main():
     
     # Number of recommendations
     n_recs = st.sidebar.slider("Number of recommendations:", 1, 10, 3)
+      # Create a sidebar expander for cache management
+    with st.sidebar.expander("Cache Management"):
+        if st.button("Clear Cached Recommendations"):
+            # Clear only the recommendations cache
+            generate_cached_recommendations.clear()
+            st.success("Recommendations cache cleared!")
+            
+        if st.button("Clear All Cache"):
+            # Clear all Streamlit caches
+            st.cache_data.clear()
+            st.success("All caches cleared!")
     
     # Generate recommendations button
     if st.sidebar.button("Get Recommendations"):
         with st.spinner("Generating recommendations..."):
-            # Get recommendations
-            recommended_plans, similarity_scores = get_recommendations_by_preferences(
+            # Get recommendations using the cached function
+            recommended_plans, similarity_scores = generate_cached_recommendations(
                 features=features,
                 df=df,
                 min_time=min_time,
